@@ -1,5 +1,5 @@
 # CNNCIFAR10
-Assignment 2: CNN on CIFAR 10 with Pytorch
+Assignment 2: Image Detection on CIFAR10 Dataset with CNN
 
 Part of "Deep Learning Lab" course at USI, Lugano (Submission date 23/10/2021)
 
